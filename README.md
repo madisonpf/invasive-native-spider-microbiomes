@@ -1,4 +1,4 @@
-# Reproducible Research Template
+# README
 
 This is an example template to help format a research project from start to finish.
 
