@@ -1,0 +1,109 @@
+Sample_ID,Primer,I7_Index_ID,index,I5_Index_ID,index2,State/Province,Island,Site,Type of Specimen,Species Identification,Sample_Or_Control
+X1_HI_N_HA_16S,16S (27F),R25,GGTAGCAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X2_HI_N_HA_16S,16S (27F),R26,CACGATTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X3_HI_N_HA_16S,16S (27F),R27,ACTGATAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X4_HI_N_HA_16S,16S (27F),R28,GTCCGCTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X7_HI_HK_16S,16S (27F),R29,ATGAGCAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X8_HI_HK_16S,16S (27F),R30,TAATCGTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),North Hakalau ,Non-native,Badumna,True Sample
+X9_HI_HK_16S,16S (27F),R31,ATTCCTAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X10_HI_HK_16S,16S (27F),R32,CAACTAAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X11a_HI_HK_16S,16S (27F),R33,GTTTCGTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X11b_HI_HK_16S,16S (27F),R34,CACCGGAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X12_HI_HK_16S,16S (27F),R35,GTGGCCTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X13_HI_HK_16S,16S (27F),R36,CACGATAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X14_HI_HK_16S,16S (27F),R25,GGTAGCAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X15_HI_HK_16S,16S (27F),R26,CACGATTA,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X16_HI_HK_16S,16S (27F),R27,ACTGATAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X17_HI_HK_16S,16S (27F),R28,GTCCGCTA,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X18_HI_HK_16S,16S (27F),R29,ATGAGCAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X19_HI_HK_16S,16S (27F),R30,TAATCGTA,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X20_HI_HK_16S,16S (27F),R31,ATTCCTAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+X21_HI_HK_16S,16S (27F),R32,CAACTAAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Non-native,Badumna,True Sample
+BLANK_16S_1,16S (27F),R33,GTTTCGTA,F10,TGCTAAGT,NA,NA,NA,NA,NA,Control
+X23_HI_HK_16S,16S (27F),R34,CACCGGAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Native,Tetragnatha,True Sample
+X24_HI_HK_16S,16S (27F),R35,GTGGCCTA,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Native,Tetragnatha,True Sample
+X25_HI_HK_16S,16S (27F),R36,CACGATAT,F10,TGCTAAGT,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Native,Tetragnatha,True Sample
+X26_HI_HK_16S,16S (27F),R25,GGTAGCAT,F11,TAAGTTCC,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Native,Tetragnatha,True Sample
+X27_HI_HK_16S,16S (27F),R26,CACGATTA,F11,TAAGTTCC,Hawaii,Hawaii (Big Island),"Hakalau, Tet. Kea Site",Native,Tetragnatha,True Sample
+X29_HO_PH_16S,16S (27F),R27,ACTGATAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X30_HO_PH_16S,16S (27F),R28,GTCCGCTA,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X31_HO_PH_16S,16S (27F),R29,ATGAGCAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X32_HO_PH_16S,16S (27F),R30,TAATCGTA,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X33_HO_PH_16S,16S (27F),R31,ATTCCTAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Scytodes,True Sample
+X34_HO_PH_16S,16S (27F),R32,CAACTAAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Scytodes,True Sample
+X35_HO_PH_16S,16S (27F),R33,GTTTCGTA,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Scytodes,True Sample
+X36_HO_PH_16S,16S (27F),R34,CACCGGAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Scytodes,True Sample
+X37_HO_PH_16S,16S (27F),R35,GTGGCCTA,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X38_HO_PH_16S,16S (27F),R36,CACGATAT,F11,TAAGTTCC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X39_HO_PH_16S,16S (27F),R25,GGTAGCAT,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Steatoda,True Sample
+X40_HO_PH_16S,16S (27F),R26,CACGATTA,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Non-native,Scytodes,True Sample
+X41_HO_HA_16S,16S (27F),R27,ACTGATAT,F12,ATAGAGGC,Hawaii,Oahu,Haleauau,Non-native,Thelacantha,True Sample
+X42_HO_PH_16S,16S (27F),R28,GTCCGCTA,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X43_HO_PH_16S,16S (27F),R29,ATGAGCAT,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X44_HO_PH_16S,16S (27F),R30,TAATCGTA,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X45_HO_PH_16S,16S (27F),R31,ATTCCTAT,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X46_HO_PH_16S,16S (27F),R32,CAACTAAT,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X47_HO_PH_16S,16S (27F),R33,GTTTCGTA,F12,ATAGAGGC,Hawaii,Oahu,Puahapapa - Snail Inclosure,Native,Tetragnatha,True Sample
+X48_MA_KP_16S,16S (27F),R34,CACCGGAT,F12,ATAGAGGC,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X49_MA_KP_16S,16S (27F),R35,GTGGCCTA,F12,ATAGAGGC,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X50_MA_KP_16S,16S (27F),R36,CACGATAT,F12,ATAGAGGC,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X51_MA_KP_16S,16S (27F),R25,GGTAGCAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X52_MA_KP_16S,16S (27F),R26,CACGATTA,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X53_MA_KP_16S,16S (27F),R27,ACTGATAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X54_MA_KP_16S,16S (27F),R28,GTCCGCTA,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X55_MA_KP_16S,16S (27F),R29,ATGAGCAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X56_MA_KP_16S,16S (27F),R30,TAATCGTA,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X57_MA_KP_16S,16S (27F),R31,ATTCCTAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X58_MA_KP_16S,16S (27F),R32,CAACTAAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X59_MA_KP_16S,16S (27F),R33,GTTTCGTA,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X60_MA_KP_16S,16S (27F),R34,CACCGGAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X61_MA_KP_16S,16S (27F),R35,GTGGCCTA,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Non-native,Steatoda,True Sample
+X62_MA_KP_16S,16S (27F),R36,CACGATAT,F13,GGCTCTGA,Hawaii,Maui,Kipahulu,Native,Steatoda,True Sample
+X63_MA_KP_16S,16S (27F),R25,GGTAGCAT,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X64_MA_KP_16S,16S (27F),R26,CACGATTA,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X65_MA_KP_16S,16S (27F),R27,ACTGATAT,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X66_MA_KP_16S,16S (27F),R28,GTCCGCTA,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X67_MA_KP_16S,16S (27F),R29,ATGAGCAT,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X68_MA_KP_16S,16S (27F),R30,TAATCGTA,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X69_MA_KP_16S,16S (27F),R31,ATTCCTAT,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X70_MA_KP_16S,16S (27F),R32,CAACTAAT,F14,AGGCGAAG,Hawaii,Maui,Kipahulu,Native,Tetragnatha,True Sample
+X71_CA_BK_16S,16S (27F),R33,GTTTCGTA,F14,AGGCGAAG,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X72_CA_BK_16S,16S (27F),R34,CACCGGAT,F14,AGGCGAAG,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X73_CA_BK_16S,16S (27F),R35,GTGGCCTA,F14,AGGCGAAG,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X74_CA_BK_16S,16S (27F),R36,CACGATAT,F14,AGGCGAAG,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+BLANK_16S_2,16S (27F),R25,GGTAGCAT,F15,TAATCTTA,NA,NA,NA,NA,NA,Control
+X75_CA_BK_16S,16S (27F),R26,CACGATTA,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X76_CA_BK_16S,16S (27F),R27,ACTGATAT,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X77_CA_BK_16S,16S (27F),R28,GTCCGCTA,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X78_CA_BK_16S,16S (27F),R29,ATGAGCAT,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X79_CA_BK_16S,16S (27F),R30,TAATCGTA,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X80_CA_BK_16S,16S (27F),R31,ATTCCTAT,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X81_CA_BK_16S,16S (27F),R32,CAACTAAT,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X82_CA_BK_16S,16S (27F),R33,GTTTCGTA,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X83_CA_BK_16S,16S (27F),R34,CACCGGAT,F15,TAATCTTA,California,Berkeley,Strawberry creek,Native,Tetragnatha,True Sample
+X84_CA_BK_16S,16S (27F),R35,GTGGCCTA,F15,TAATCTTA,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X85_CA_BK_16S,16S (27F),R36,CACGATAT,F15,TAATCTTA,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X86_CA_BK_16S,16S (27F),R25,GGTAGCAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X87_CA_BK_16S,16S (27F),R26,CACGATTA,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X88_CA_BK_16S,16S (27F),R27,ACTGATAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X89_CA_BK_16S,16S (27F),R28,GTCCGCTA,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X90_CA_BK_16S,16S (27F),R29,ATGAGCAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X91_CA_BK_16S,16S (27F),R30,TAATCGTA,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X92_CA_BK_16S,16S (27F),R31,ATTCCTAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X93_CA_BK_16S,16S (27F),R32,CAACTAAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X94_CA_BK_16S,16S (27F),R33,GTTTCGTA,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X95_CA_BK_16S,16S (27F),R34,CACCGGAT,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+X96_CA_BK_16S,16S (27F),R35,GTGGCCTA,F16,CAGGACGT,California,Berkeley,Around hilgard,Non-native,Badumna,True Sample
+PCR_BLANK_16S,16S (27F),R36,CACGATAT,F16,CAGGACGT,NA,NA,NA,NA,NA,Control
+X97_HI_HK_16S,16S (27F),R37,GGTAGCTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X98_HI_HK_16S,16S (27F),R38,CAGGCGAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X99_HI_HK_16S,16S (27F),R39,CATTTTAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X100_HI_HK_16S,16S (27F),R40,TGACCATA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X101_HI_HK_16S,16S (27F),R41,CGGAATAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X102_HI_HK_16S,16S (27F),R42,CTATACAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X103_HI_HK_16S,16S (27F),R43,TAGCTTTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X104_HI_HK_16S,16S (27F),R44,TAATCGAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X105_HI_HK_16S,16S (27F),R45,ATGAGCTA,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+X106_HI_HK_16s,16S (27F),R46,TCATTCAT,F09,TGAACCTT,Hawaii,Hawaii (Big Island),Hakalau - Before Maulua,Non-native,Steatoda,True Sample
+XNC_EX_16s,16S (27F),R47,CGTACGTA,F09,TGAACCTT,Hawaii,NA,NA,NA,NA,Control
+XNCPCR_16s,16S (27F),R48,ATCACGAT,F09,TGAACCTT,Hawaii,NA,NA,NA,NA,Control
