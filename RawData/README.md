@@ -1,9 +1,25 @@
-## Raw Data
+## Raw Data for PhyloSeq Inputs
 
-This is where you'll store your raw data files. These should typically be files pulled directly from the database or Box, or sent to you by a collaborator. For database downloads, you can rename the file with the table name and download date, but make no other modifications to the file.
+Here is the raw data file outputs from QIIME2 and inputs to the phyloseq analysis code. 
 
-Note that if you open the file in Excel and save it, even if you make no changes, some fields like dates will be reformatted to Excel's default date format.
+*filtered_clustered_ASV.csv* -  Amplicon Sequence Variant (ASV) count table  
+- **Rows:** ASV IDs (Feature IDs)  
+- **Columns:** Sample IDs  
+- **Values:** Abundance of each ASV per sample
 
-If you need to make changes to the raw data, you should either make the change in the database and re-download the file, or make the change programatically in *DataCurationCode*.
+*merged_16S_tax_clusters.csv* -  Taxonomic annotations corresponding to clustered ASVs  
+- **Rows:** ASV IDs (Feature IDs)  
+- **Columns:** Taxonomic assignments from Kingdom to Species  
+- Includes a “Confidence” column indicating match quality from SILVA
 
-These files will typically *not* be made public upon submission/publication. 
+*spider_metadata_16s_only.csv* -  Sample metadata file  
+- **Columns include:**  
+  - `SampleID`  
+  - `Species`  
+  - `Site`  
+  - `Region` (island/mainland)  
+  - `Invasion_Status` (native/invasive)  
+  - Additional sequencing prep info
+
+*tree-cluster-A.nwk*, *tree-cluster-B.nwk*, *tree-cluster-C.nwk*
+Phylogenetic tree files (Newick format) for three different clustering runs (A, B, and C), used for diversity and evolutionary analyses.
