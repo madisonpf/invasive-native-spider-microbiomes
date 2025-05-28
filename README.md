@@ -1,38 +1,45 @@
 # README
 
-This is an example template to help format a research project from start to finish.
-
-Reproducible research is crucial to the scientific enterprise, but the field of animal behavior has been slow to adopt best practices:
-
-  >Miller, S.E., Jernigan, C.M., Legan, A.W., Miller, C.H., Tumulty, J.P., Walton, A. and Sheehan, M.J., 2021. Animal behavior missing from data archives. <i>Trends in Ecology &   Evolution.</i> [doi: 10.1016/j.tree.2021.07.008](https://doi.org/10.1016/j.tree.2021.07.008)
-
-But we can do better! There are some great resources available for increasing reproducibility, and this template should help provide lab-specific information for organizing your project. For more general information, see:   
-
-   >[A Guide to Reproducible Code in Ecology and Evolution, British Ecological Society, 2017](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-
-## Installation
-
-This is a template repository, which means you can create a new repository with the same directory structure and files as this exisiting repository. It's similar to creating a fork, but the repository histories will be unrelated. 
-
-To use this template, simply click *Use this Template*, select your account, and name your repository the same way you would when creating a new one. 
-
+This repository was made to store data and code for the publication entitled "Do invasive spiders escape their native microbiomes? Patterns of microbial variation in native and invasive spiders in Hawai‘i" 
 
 ## Usage
+This repository contains the following key files and folders:
+- `filtered_clustered_ASV.csv`  
+  Amplicon Sequence Variant (ASV) count table with abundance values for each sample.
+- `merged_16S_tax_clusters.csv`  
+  Taxonomic annotations for each ASV, with SILVA v138 confidence scores.
+- `spider_metadata_16S_only.csv`  
+  Metadata including sample IDs, spider species, site, region, invasion status, and sequencing info.
+- `tree-cluster-A.nwk`, `tree-cluster-B.nwk`, `tree-cluster-C.nwk`  
+  Phylogenetic tree files corresponding to different clustering runs.
+- `cluster_analysis_figures.R`  
+  R script for preprocessing microbial data, building phyloseq objects, statistical analyses, and figure creation.
+- `spid_picrust2_clusters.R`  
+  R script to process PICRUSt2 functional predictions and merge data for downstream analysis.
 
-There are eight folders by default, four of which will typically become part of your final public repository upon publication, and four which can remain private or local to you. You can change which folders and files and tracked with a *.gitignore* file. 
+---
 
-Each folder contains a readme with specific instructions. Recommended order is as follows: 
+## File Organization
 
-- RawData *(private)*
-- DataCurationCode *(private)*
-- SharedData *(public)*
-- AnalysisCode *(public)*
-- IntermediateData *(public)*
-- TablesFigures *(public)*
-- References *(private)*
-- Drafts *(private)*
+Data is organized in the following fashion: 
+- **RawData/** — Data inputs (.csv) to phyloseq
+- **SharedData/** — links to Dryad DOI (contains raw data (.FASTQ) and metadata files) 
+- **AnalysisCode/** — R scripts for phyloseq analysis and PICRUSt2 processing (public)
 
+---
 
 ## Contributing
 
-Pull requests are welcome. For major changes, open an issue or email me directly <vjf5@georgetown.edu> 
+Pull requests and suggestions are welcome! For major changes or questions, please open an issue or contact Madison Pfau at [mapfau@ucsc.edu](mailto:mapfau@ucsc.edu).
+
+---
+
+## Contact
+
+If you have questions about the data or analysis scripts, please reach out to:  
+Madison J. Pfau — [mapfau@ucsc.edu](mailto:mapfau@ucsc.edu)
+
+---
+
+*This README was generated to promote transparency and reproducibility in microbial ecology research.*
+
