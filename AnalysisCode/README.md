@@ -1,7 +1,13 @@
 # Analysis Code
 
-This is where you'll store the code for your analysis, typically a series of numbered and labelled R scripts, or other scripts in other languages, e.g. markdown files. This should read in the data directly from your *DryadData* folder and output all the files in your *TablesandFigures* folder. 
+#Contains all code used for creation of all statistical analyses and figure development. 
 
-These are the scripts you will include with your paper submission, so they should be carefully commented with instructions. 
+*cluster_analysis_figures.R*
+- R script for microbial data preprocessing and downstream analysis  
+- **Inputs:** `filtered_clustered_ASV.csv`, `merged_16S_tax_clusters.csv`, `spider_metadata_16S_only.csv`  
+- Includes statistical models, figure generation, and manuscript analysis code
 
-These will typically be made public upon submission/publication. 
+### 8. `spid_picrust2_clusters.R`
+- R script for merging and cleaning PICRUSt2 output files  
+- Used for functional profile analysis and figure preparation
+- Inputs to spid_picrust2_cluster will be made available following publication
